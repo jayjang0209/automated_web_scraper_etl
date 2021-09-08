@@ -4,6 +4,8 @@ Automated data ETL process to extract data from websites and load the data into 
 # Description
 ## web_scraper_aws_lambda_source_code.py
 Serverless Automated Web Scraper that runs on a schedule
+![workflow](imgs/work_flow.png)
+### Work flow
 
 Trigger → Serverless function(python script) → Database
 
