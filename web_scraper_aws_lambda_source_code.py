@@ -12,6 +12,7 @@ Serverless Automated Web Scraper - Data ETL (Extract, Transform, Load)
               NoSQL database
 
     dev branch test
+    test merging
 """
 
 import json
