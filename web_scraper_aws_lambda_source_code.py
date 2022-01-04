@@ -11,8 +11,8 @@ Serverless Automated Web Scraper - Data ETL (Extract, Transform, Load)
     Database: AWS DynamoDB
               NoSQL database
 
-    dev branch test1
-    test merging
+    created dev branch Jan, 2022
+    test branching
 """
 
 import json
